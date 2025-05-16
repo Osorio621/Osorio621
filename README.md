@@ -38,15 +38,15 @@
 
 ## 📊 GitHub Stats
 
-![Juan José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanJoseOsorio&show_icons=true&theme=github_dark&hide=prs)
+![Juan José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osorio621&show_icons=true&theme=github_dark&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseOsorio&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osorio621&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosorio@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosorio90@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 
 ---
