@@ -64,5 +64,12 @@
 
 ---
 
+## 👀 Contador de Visitas
+
+![Visitas](https://komarev.com/ghpvc/?username=Osorio621&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+
+---
+
 ⭐ *Gracias por visitar mi perfil. ¡No dudes en explorar mis proyectos!* 😊
+
 
