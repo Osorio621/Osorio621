@@ -100,27 +100,27 @@
 
 <div align="center">
 
-<!-- Estadísticas con diseño mejorado -->
+<!-- IMPORTANTE: Cambia "Osorio621" por TU usuario de GitHub si es diferente -->
+
+<!-- Estadísticas principales -->
 <table>
   <tr>
     <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osorio621&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=7F52FF" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Osorio621&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=7F52FF" alt="Estadísticas GitHub" />
     </td>
     <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osorio621&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7F52FF&langs_count=8" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osorio621&theme=react-dark&bg_color=0d1117&hide_border=true&color=7F52FF&line=7F52FF&point=FFFFFF" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osorio621&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7F52FF&langs_count=8" alt="Lenguajes más usados" />
     </td>
   </tr>
 </table>
 
+<!-- Gráfico de actividad -->
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Osorio621&theme=react-dark&bg_color=0d1117&hide_border=true&color=7F52FF&line=7F52FF&point=FFFFFF" alt="Gráfico de actividad" width="100%" />
+
 <!-- Streak stats -->
-<div>
-  <img src="https://streak-stats.demolab.com?user=Osorio621&theme=radical&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" alt="GitHub Streak" />
-</div>
+<br>
+<img src="https://streak-stats.demolab.com?user=Osorio621&theme=radical&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" alt="GitHub Streak" />
 
 </div>
 
